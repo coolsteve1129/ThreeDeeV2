@@ -17,10 +17,19 @@ namespace ThreeDeePrintingHub.Controllers
         {
             _logger = logger;
         }
-
-        public IActionResult Index()
+        [HttpGet]
+        public IActionResult Login()
         {
             return View();
+        }
+        public IActionResult ProductList()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult Login(string Email, string Password)
+        {
+            return View(Email);
         }
 
         public IActionResult Privacy()

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeDeePrintingHub", "ThreeDeePrintingHub\ThreeDeePrintingHub.csproj", "{521E6A24-2E72-4B7A-9856-703877830D45}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeDeePrintingHub", "ThreeDeePrintingHub\ThreeDeePrintingHub.csproj", "{B6411970-C9D4-41D7-AC05-6748F82CB1BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{521E6A24-2E72-4B7A-9856-703877830D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{521E6A24-2E72-4B7A-9856-703877830D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{521E6A24-2E72-4B7A-9856-703877830D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{521E6A24-2E72-4B7A-9856-703877830D45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6411970-C9D4-41D7-AC05-6748F82CB1BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6411970-C9D4-41D7-AC05-6748F82CB1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6411970-C9D4-41D7-AC05-6748F82CB1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6411970-C9D4-41D7-AC05-6748F82CB1BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C9FD5BEE-4D6A-4C68-B882-5607A5483598}
+		SolutionGuid = {A49A066C-123F-463E-85C7-5674ABA7C3B2}
 	EndGlobalSection
 EndGlobal
