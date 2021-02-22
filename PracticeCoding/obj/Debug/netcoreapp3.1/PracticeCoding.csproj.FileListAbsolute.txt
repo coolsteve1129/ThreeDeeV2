@@ -1,0 +1,11 @@
+C:\Users\hecks\source\repos\PracticeCoding\bin\Debug\netcoreapp3.1\PracticeCoding.exe
+C:\Users\hecks\source\repos\PracticeCoding\bin\Debug\netcoreapp3.1\PracticeCoding.deps.json
+C:\Users\hecks\source\repos\PracticeCoding\bin\Debug\netcoreapp3.1\PracticeCoding.runtimeconfig.json
+C:\Users\hecks\source\repos\PracticeCoding\bin\Debug\netcoreapp3.1\PracticeCoding.runtimeconfig.dev.json
+C:\Users\hecks\source\repos\PracticeCoding\bin\Debug\netcoreapp3.1\PracticeCoding.dll
+C:\Users\hecks\source\repos\PracticeCoding\bin\Debug\netcoreapp3.1\PracticeCoding.pdb
+C:\Users\hecks\source\repos\PracticeCoding\obj\Debug\netcoreapp3.1\PracticeCoding.csprojAssemblyReference.cache
+C:\Users\hecks\source\repos\PracticeCoding\obj\Debug\netcoreapp3.1\PracticeCoding.AssemblyInfoInputs.cache
+C:\Users\hecks\source\repos\PracticeCoding\obj\Debug\netcoreapp3.1\PracticeCoding.AssemblyInfo.cs
+C:\Users\hecks\source\repos\PracticeCoding\obj\Debug\netcoreapp3.1\PracticeCoding.dll
+C:\Users\hecks\source\repos\PracticeCoding\obj\Debug\netcoreapp3.1\PracticeCoding.pdb
